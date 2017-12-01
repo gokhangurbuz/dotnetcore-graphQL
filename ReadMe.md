@@ -1,6 +1,6 @@
 ﻿ ASP.NET MVC Core GraphQL sample
 
-URL: localhost:<portNumber>/graphql
+URL: localhost:port/graphql
 
 Query Sampling
 
